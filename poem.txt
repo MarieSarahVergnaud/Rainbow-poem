@@ -4,5 +4,7 @@ Purpule
 Pink
 Orange
 Blue
+Green
 Red
+
 col rainbow
